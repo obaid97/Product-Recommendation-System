@@ -1,4 +1,4 @@
-# Product-Recomendation-System
+# Product-Recommendation-System
 
 The project involves creating a product recommendation system using the Amazon review dataset, which is compressed and has a size of 33 GB. The system will be built using Apache Spark for data processing and a Flask framework for the front end.
 
